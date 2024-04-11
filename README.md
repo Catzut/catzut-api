@@ -1,1 +1,1 @@
-# catzut-api
+# Catzut API
